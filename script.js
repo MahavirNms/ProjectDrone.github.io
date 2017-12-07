@@ -1,5 +1,5 @@
 function pageLoad(){
-  alert("IF YOU HAD ANY IDEAS REPORT THEM AT https://github.com/ProjectDrone/IDEAS/issues ELSE CONTINUE..")
+  alert("IF YOU HAD ANY IDEAS REPORT THEM AT ProjectDrone/IDEAS/issues")
 }
 
 window.onload = pageLoad
